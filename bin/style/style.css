@@ -1,0 +1,62 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: linear-gradient(to bottom right, #1f1c2c, #928dab);
+}
+
+.card {
+    -fx-background-color: rgba(255,255,255,0.12);
+    -fx-padding: 25;
+    -fx-background-radius: 18;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 20, 0.2, 0, 6);
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.title {
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-background-color: #6c63ff;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-padding: 10 30;
+}
+
+.button:hover {
+    -fx-background-color: #857dff;
+}
+
+.radio-button {
+    -fx-text-fill: white;
+}
+
+.result {
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #6c63ff;
+}
+
+.menu-button {
+    -fx-background-color: #6c63ff;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-padding: 12 20;
+    -fx-min-width: 220;
+    -fx-max-width: 220;
+}
+
+.menu-button:hover {
+    -fx-background-color: #857dff;
+}

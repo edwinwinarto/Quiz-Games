@@ -1,0 +1,9 @@
+Unknown, null, 0
+edw, Pengetahuan Umum, 0
+edw, Pilihan Ganda, 60
+edw, Pengetahuan Umum, 0
+Edwin, Matematika, 100
+Edwin, Matematika, 90
+Edwin, Matematika, 90
+Edwin, Pilihan Ganda, 30
+Start, Pengetahuan Umum, 0
