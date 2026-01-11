@@ -155,3 +155,16 @@ PACKAGE style
 - style.css
 style.css digunakan untuk mengatur tampilan visual aplikasi JavaFX.
 File ini mengatur warna, font, ukuran tombol, dan tampilan antarmuka agar aplikasi terlihat lebih menarik dan konsisten.
+
+TAMPILAN HALAMAN :
+- Halaman Utama 
+<img width="995" height="694" alt="image" src="https://github.com/user-attachments/assets/c817c55a-4cc1-48e4-a74a-1259406f8eb0" />
+- Halaman Menu
+<img width="996" height="694" alt="image" src="https://github.com/user-attachments/assets/a02899de-83fe-4f1e-b1f3-80c5531df8ec" />
+- Halaman Soal
+<img width="996" height="694" alt="image" src="https://github.com/user-attachments/assets/36325bf9-c85d-4c3e-af2b-3385490034f7" />
+- Halaman Hasil
+<img width="995" height="695" alt="image" src="https://github.com/user-attachments/assets/47c42efb-0921-4407-bd61-879d7592e277" />
+
+
+
